@@ -5,3 +5,34 @@
 
 - [폰트 다운로드](https://github.com/toss/tossface/releases/tag/v1.1)
 - [폰트 설치 방법](https://support.apple.com/ko-kr/HT201749)
+
+## 웹 폰트
+
+CDN을 이용해 아래와 같이 토스페이스를 이용할 수 있습니다. 토스페이스가 사용하는 `font-family`는 `Tossface`입니다.
+
+<!-- markdownlint-disable-next-line MD036 -->
+**CSS**
+
+```css
+@import url('https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css');
+```
+
+<!-- markdownlint-disable-next-line MD036 -->
+**HTML**
+
+```html
+<link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
+```
+
+<!-- markdownlint-disable-next-line MD036 -->
+**사용하기**
+
+아래와 같이 `tossface` class 속성을 가진 HTML 요소에 토스페이스 폰트를 사용할 수 있습니다.
+
+```css
+.tossface {
+  font-family: Tossface;
+}
+```
