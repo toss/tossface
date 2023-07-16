@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <rect x="-104" y="-6" width="350" height="52" fill="none" stroke="#f24253" stroke-miterlimit="10" stroke-width="2"/>
+  <g>
+    <rect id="SVGID" width="40" height="40" fill="#fff" opacity="0"/>
+    <g>
+      <path d="m19.949,1.667L5.469,7.613c-.625.257-1.033.866-1.033,1.542v9.178h15.513V1.667Z" fill="#9dc8f9"/>
+      <path d="m4.436,18.333v4.061c0,6.255,8.177,12.333,15.513,15.939v-20H4.436Z" fill="#4582ed"/>
+      <path d="m19.949,38.333c7.336-3.606,15.513-9.684,15.513-15.939v-4.061h-15.513v20Z" fill="#72a6f7"/>
+      <path d="m19.949,1.667v16.667h15.513v-9.178c0-.676-.408-1.285-1.033-1.542L19.949,1.667Z" fill="#4582ed"/>
+    </g>
+  </g>
+</svg>

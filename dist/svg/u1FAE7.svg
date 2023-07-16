@@ -1,1 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><rect width="40" height="40" transform="translate(40) rotate(90)" style="fill:none;"/><circle cx="13.52825" cy="15.08442" r="10.33947" style="fill:#c8d8f7;"/><circle cx="22.22119" cy="27.26252" r="7.99253" style="fill:#d9e3f7;"/><path d="M22.95323,19.30318c-3.93444-.36577-7.55437,2.21501-8.4887,6.06068,3.7074-.3356,6.96584-2.6597,8.4887-6.06068Z" style="fill:#9dbcf7;"/><circle cx="31.9907" cy="15.39377" r="4.82053" style="fill:#e6ebf7;"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <rect width="40" height="40" transform="translate(40) rotate(90)" fill="none"/>
+  <circle cx="13.528" cy="15.084" r="10.339" fill="#c8d8f7"/>
+  <circle cx="22.221" cy="27.263" r="7.993" fill="#d9e3f7"/>
+  <path d="m22.953,19.303c-3.934-.366-7.554,2.215-8.489,6.061,3.707-.336,6.966-2.66,8.489-6.061Z" fill="#9dbcf7"/>
+  <circle cx="31.991" cy="15.394" r="4.821" fill="#e6ebf7"/>
+</svg>
