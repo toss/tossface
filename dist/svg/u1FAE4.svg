@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-  <rect width="40" height="40" fill="none"/>
-  <g>
-    <g>
-      <circle cx="20" cy="20" r="17.5" fill="#ffc84d"/>
-      <g>
-        <ellipse cx="15.285" cy="15.241" rx="2.094" ry="2.728"/>
-        <ellipse cx="24.715" cy="15.241" rx="2.094" ry="2.728"/>
-      </g>
-    </g>
-    <path d="m27.231,24.43l-12.917,3.546c-.533.146-1.083-.167-1.229-.7s.167-1.083.7-1.229l12.917-3.546c.533-.146,1.083.167,1.229.7s-.167,1.083-.7,1.229Z" fill="#f80"/>
-  </g>
-  <rect width="40" height="40" fill="none"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><rect width="40" height="40" fill="none"/><g><g><circle cx="20" cy="20" r="17.5" fill="#ffc84d"/><g><ellipse cx="15.285" cy="15.241" rx="2.094" ry="2.728"/><ellipse cx="24.715" cy="15.241" rx="2.094" ry="2.728"/></g></g><path d="m27.231,24.43l-12.917,3.546c-.533.146-1.083-.167-1.229-.7s.167-1.083.7-1.229l12.917-3.546c.533-.146,1.083.167,1.229.7s-.167,1.083-.7,1.229Z" fill="#ff6d00"/></g><rect width="40" height="40" fill="none"/></svg>
